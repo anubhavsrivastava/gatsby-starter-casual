@@ -40,18 +40,8 @@ Edit `config.js` to put up your details
 module.exports = {
   siteTitle: 'Gatsby Starter casual', // <title>
   ...
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
-
-  // social
-  socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    }
-    ...
-  ],
+  heading: 'Gatsby Starter Casual',
+  subHeading: 'A Free Bootstrap 4 based Gatsby Starter',
 };
 
 ```
